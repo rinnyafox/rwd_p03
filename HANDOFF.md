@@ -95,7 +95,5 @@
 
 ## 安全檢查
 
-請你自己檢查 repository 後再勾選：
-
-- [ ] 此 repository 沒有 API 金鑰、密碼或任何個人資料
-- [ ] `.gitignore` 已排除 `.env` 與含金鑰的檔案
+- 此 repository 沒有 API 金鑰、密碼或任何個人資料
+- .gitignore` 已排除 `.env` 與含金鑰的檔案
