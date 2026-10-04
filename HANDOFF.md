@@ -8,7 +8,7 @@
 ## 目前狀態
 
 - 完成：
-  * 原產品：Penana（https://www.penana.com）
+  * 原產品：Penana（https://www.penana.com
   * 原產品截圖 5 張；🧭 Brief・診斷：3 個問題、Persona、Brief 五要素、3 個設計主張（含取捨、兌現位置、驗證方式）
   * 🖼 意象看板：關鍵詞、8 張 UI 參考、5 個網站參考、3 組色彩參考、反例，皆附出處
   * 🎨 CIS・設計規範：7 組色彩變數、10 個間距與圓角變數（space/100–600、radius/sm–pill，約 8 成已綁到圖層）、5 組文字樣式、Button／Card／Tab Bar 元件；Button 含 Focus 變體；主色改為 #9E5C00
