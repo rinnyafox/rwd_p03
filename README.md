@@ -10,7 +10,7 @@
 - Figma（唯一繳交入口）：<https://www.figma.com/design/3Rv4YWeVh0zaRWVP6HSP3i/RWD_P03_Penana重新設計>
   * 📋 評分總覽：<https://www.figma.com/design/3Rv4YWeVh0zaRWVP6HSP3i/RWD_P03_Penana重新設計?node-id=1-2>
 - 交接紀錄：[HANDOFF.md](HANDOFF.md)
-- Pitch 與逐字稿：[PITCH.md](PITCH.md)（錄影連結尚未建立）
+- Pitch 與逐字稿：[PITCH.md](PITCH.md)（錄影：https://youtu.be/tL9RbT7Awg0）
 - 主要 AI 討論串：<https://claude.ai/share/08fbaed9-fdbf-49a5-9a5f-d4e727e6ca82>
 
 ## 這次重新設計在做什麼
